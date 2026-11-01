@@ -1,6 +1,6 @@
 {
   "server_host": "omhcserver.mbudhost.biz.id",
-  "server_port": 13083,
+  "server_port": 2095,
   "update_available": true,
   "version": "v2.0.1",
   "notes": "Update perdana, fix bug.",
